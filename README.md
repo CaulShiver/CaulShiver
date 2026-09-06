@@ -19,6 +19,7 @@ TypeScript / Next.js / Supabase / Vercel for products. Python for analytics and 
 ## Elsewhere
 
 Ideas and scratch work: [hello-world](https://github.com/CaulShiver/hello-world)
+
 LinkedIn: [linkedin.com/in/joedzubak](https://www.linkedin.com/in/joedzubak/)
 
 Pleasant View, TN · Remote
